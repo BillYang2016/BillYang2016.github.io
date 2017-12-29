@@ -3,7 +3,7 @@ You can straightly visit my homepage by clicking [here](https://bill.moe).
 
 ## To-Do List
 ### priority p2
-Add a domain to replace default github domain.  
+- [x] Add a domain to replace default github domain.  
 
 ## Known bugs
 - The page doesn't refresh itself quickly.  
