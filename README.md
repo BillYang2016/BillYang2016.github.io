@@ -9,5 +9,5 @@ You can straightly visit my homepage by clicking [here](https://bill.moe).
 - The page doesn't refresh itself quickly.  
 This is caused by animation of the words.  
 - Background picture is too large.  
-Need discuss what to do with the picture.  
+Need discussing what to do with the picture.  
 It was downloaded from pixiv.  
