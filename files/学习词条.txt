@@ -1,0 +1,4 @@
+1.4.3
+24
+修复了对于正则中括号的适配，优化了对于正则的搜索，修复了控制台增加词条对中括号的适配
+http://qadajv3xj.bkt.clouddn.com/com.billyang.entry.cpk
