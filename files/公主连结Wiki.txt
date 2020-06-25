@@ -1,4 +1,4 @@
-0.3.2
-9
-更新自动更新的储存源，修复角色信息可能包含的html标签
+0.3.3
+10
+更新适配rank9装备
 https://bill.moe/files/com.billyang.pcrwiki.cpk
