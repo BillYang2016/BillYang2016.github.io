@@ -1,4 +1,4 @@
-0.3.3
-10
-更新适配rank9装备
+0.3.4
+11
+添加空缓存名容错，修复装备图标等问题
 https://bill.moe/files/com.billyang.pcrwiki.cpk
