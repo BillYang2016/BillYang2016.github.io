@@ -1,4 +1,4 @@
-0.3.4
-11
-添加空缓存名容错，修复装备图标等问题
+0.4.0
+12
+加入UB语音，修复使用指令更新数据时的一些bug
 https://bill.moe/files/com.billyang.pcrwiki.cpk
