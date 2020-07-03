@@ -1,4 +1,4 @@
-0.4.0
-12
-加入UB语音，修复使用指令更新数据时的一些bug
+0.4.1
+13
+修复技能循环的问题，修复缓存语音时控制台显示，加入获取默认json功能
 https://bill.moe/files/com.billyang.pcrwiki.cpk
