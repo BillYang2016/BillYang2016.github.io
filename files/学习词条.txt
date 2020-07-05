@@ -1,4 +1,4 @@
-1.4.4
-25
-更新自动更新的储存源
+1.4.5
+26
+修复词条历史显示换行符的问题
 https://bill.moe/files/com.billyang.entry.cpk
