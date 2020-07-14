@@ -1,4 +1,4 @@
-0.5.0
-15
-修复由于专武造成的缓存技能错位问题，加入专武变量解析
+0.5.1
+16
+修复群内发送语音的问题
 https://bill.moe/files/com.billyang.pcrwiki.cpk
