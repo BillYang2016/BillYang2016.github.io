@@ -1,4 +1,4 @@
-0.5.1
-16
-修复群内发送语音的问题
+0.5.2
+17
+修复职业数据取消造成的无法查询角色问题
 https://bill.moe/files/com.billyang.pcrwiki.cpk
