@@ -1,4 +1,4 @@
-1.4.5
-26
-修复词条历史显示换行符的问题
+1.5.0
+27
+加入群分组功能
 https://bill.moe/files/com.billyang.entry.cpk
