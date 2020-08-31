@@ -1,4 +1,0 @@
-1.5.0
-27
-加入群分组功能
-https://bill.moe/files/com.billyang.entry.cpk

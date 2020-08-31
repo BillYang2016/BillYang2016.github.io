@@ -1,4 +1,0 @@
-0.6.1
-20
-更新抓取格式以适配最新wiki格式，解决技能错位问题，解决未定时检查更新的问题
-https://bill.moe/files/com.billyang.pcrwiki.cpk
